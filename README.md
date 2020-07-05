@@ -22,6 +22,7 @@
 
 ### Screenshots (Restaurant App)
 ![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%203.40.00%20PM.png)
+![link](https://github.com/pallavikumar248/Projects/blob/master/Restaurant%20App/Template/home.html)
 ![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%203.40.39%20PM.png)
 ![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%204.04.56%20PM.png)
 ![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%204.25.59%20PM.png)
