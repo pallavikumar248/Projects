@@ -11,22 +11,17 @@
 
 ### Code
 1. [Restaurant Scraper](https://github.com/pallavikumar248/Projects/tree/master/Restaurant%20Scrapper)
-2. [Data Cleaning and Processing for Analysis](https://github.com/akshitvjain/restaurant-reviews/blob/master/analysis-rest.py)
-3. [Feature Review and Sentiment Analysis](https://github.com/akshitvjain/restaurant-reviews/blob/master/preprocess.py)
-4. [Web Application](https://github.com/akshitvjain/restaurant-reviews/tree/master/restaurantapp)
+2. [Data Cleaning and Processing for Analysis]
+3. [Feature Review and Sentiment Analysis]
+4. [Web Application]
 
 ### Data Visualization
-1. [UK Map - Filter by City/Price/Cuisine/Meal/Feature](https://public.tableau.com/profile/akshit.jain6678#!/vizhome/RestaurantDataAnalysis/FilterRestDashboard)
-2. [Restaurant Statistics - Filter by City](https://public.tableau.com/profile/akshit.jain6678#!/vizhome/RestaurantDataAnalysis/RestaurantStatistics)
-3. [Categorical/Positive/Negative Review Count - Filter by City](https://public.tableau.com/profile/akshit.jain6678#!/vizhome/RestaurantDataAnalysis/ReviewsDashboard)
-
+1. [UK Map - Filter by City/Price/Cuisine/Meal/Feature]
+2. [Restaurant Statistics - Filter by City]
+3. [Categorical/Positive/Negative Review Count - Filter by City]
 ### Screenshots (Restaurant App)
-![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%203.40.00%20PM.png)
+
 ![link](https://github.com/pallavikumar248/Projects/blob/master/Restaurant%20App/Template/home.html)
-![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%203.40.39%20PM.png)
-![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%204.04.56%20PM.png)
-![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%204.25.59%20PM.png)
-![link](https://github.com/akshitvjain/restaurant-reviews/blob/master/media/Screen%20Shot%202019-01-21%20at%204.05.27%20PM.png)
 
 ### Programming Language
 Python
