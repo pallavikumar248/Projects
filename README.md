@@ -10,7 +10,7 @@
 * Built a Flask application for users to search for restaurants based on their preference. The application also displays a feature based reviews for the searched restaurant and provides restaurant statistics by city along with other key information.
 
 ### Code
-1. [Restaurant Scraper](https://github.com/akshitvjain/restaurant-reviews/tree/master/restaurantscraper)
+1. [Restaurant Scraper](https://github.com/pallavikumar248/Projects/tree/master/Restaurant%20Scrapper)
 2. [Data Cleaning and Processing for Analysis](https://github.com/akshitvjain/restaurant-reviews/blob/master/analysis-rest.py)
 3. [Feature Review and Sentiment Analysis](https://github.com/akshitvjain/restaurant-reviews/blob/master/preprocess.py)
 4. [Web Application](https://github.com/akshitvjain/restaurant-reviews/tree/master/restaurantapp)
